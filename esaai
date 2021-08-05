@@ -1,0 +1,10 @@
+outlook	temp	humidity	wind	decision
+sunny	hot	hign	weak	no
+sunny	hot	high	strong	no
+overcast	hot	high	weak	yes
+rain	cold	normal	weak	yes
+rain	cold	normal	weak	yes
+overcast 	cold	normal	strong	no
+sunny	hot	normal	strong	yes
+sunny	cold	normal	weak	no
+rain	hot	high	strong	yes
